@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSPKSMBQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Controle\Design Rule Check - PCB_Controlev2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
